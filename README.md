@@ -1,3 +1,5 @@
+![DoBu Logo](https://cdn.ascoos.com/images/dobu/dobu-logo-2.webp)
+
 # DoBu — Documentation Builder for the Ascoos Ecosystem  
 ### *A JML‑inspired Documentation DSL for multilingual docblocks*
 

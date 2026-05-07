@@ -1,3 +1,5 @@
+![DoBu Logo](https://cdn.ascoos.com/images/dobu/dobu-logo-2.webp)
+
 # DoBu — Δημιουργός Τεκμηρίωσης για το Οικοσύστημα Ascoos  
 ### *Documentation DSL εμπνευσμένο από το JML, για πολυγλωσσικά docblocks*
 
